@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'historia',
+    'quem foi o faraó que construiu a grande pirâmide de Gizé?',
+    'Quéops'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da italia?',
+    'A capital da italia é Roma'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'italiano ',
+    'Como se diz bom dia  em Italiano?',
+    'bom dia em italiano é buongiorno '
 )
